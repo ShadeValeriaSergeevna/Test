@@ -13,8 +13,8 @@
 
 ## Portfolio (in progress)
 * Automation  
-  * [Check repositories (обновляется)]
+   [Check repositories (обновляется)]
 * Test documentation
-  *
+  
 * Collection at Postman
 * SQL queries
